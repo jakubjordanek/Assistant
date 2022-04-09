@@ -1,0 +1,17 @@
+figure
+{
+    width: 100%;
+    margin-bottom: 30px;
+    padding: 60px 0;
+    color: #ffffff;
+    border-radius: 30px;
+    box-shadow: 0 0 0.5em #000000;
+    font-size: 15px;
+    text-align: center;
+}
+			
+figure i
+{
+    margin-bottom: 30px;
+    display: block;
+}

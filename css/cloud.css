@@ -1,0 +1,35 @@
+input[type="file"]
+{
+    display: none;
+}
+
+.file-upload
+{
+    margin: 0;
+    color: #000000;
+    cursor: pointer;
+}
+
+.file-upload:hover
+{
+    text-decoration: underline;
+}
+
+table
+{
+    width: 100%;
+    text-align: left;
+}
+
+table th, table td
+{
+    padding: 10px;
+    border: 2px solid #eeeeee;
+    overflow-wrap: anywhere;
+    table-layout: fixed;
+}
+
+table td
+{
+    background-color: #dddddd;
+}
